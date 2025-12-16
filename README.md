@@ -30,11 +30,10 @@ https://drive.google.com/drive/folders/1nHNVskMAbPeucirnb_XW3z3LC9WXQAw6?usp=dri
 **Tools & Technologies**
 
 Python (Pandas, NumPy)
-Data Visualisation: Matplotlib, Seaborn
-Statistical Analysis: Confidence Intervals, Hypothesis Testing
-Jupyter Notebook
+**Data Visualisation**: Matplotlib, Seaborn
+**Statistical Analysis**: Confidence Intervals, Hypothesis Testing
+**Jupyter Notebook**
 SQL (SQLite) for data extraction & aggregation
-Git & GitHub for version control and documentation
 
 **Analytical Workflow**
 **Data Extraction & Cleaning**
