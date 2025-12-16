@@ -22,17 +22,10 @@ Assess inventory turnover and unsold stock risks
 Quantify the financial impact of bulk purchasing strategies
 
 **Datasets Used**
-The project uses multiple transactional datasets covering inventory, purchasing, pricing, and sales.
-
-| Dataset                          | Description                            |
-| -------------------------------- | -------------------------------------- |
-| `begin_inventory.csv`            | Opening inventory levels               |
-| `end_inventory.csv`              | Closing inventory levels               |
-| `purchase_prices.csv`            | Vendor purchase price details          |
-| `purchases.csv`                  | Purchase transactions                  |
-| `sales.csv`                      | Sales transactions                     |
-| `vendor_invoice.csv`             | Vendor billing data                    |
-| `vendor_sales_summary_clean.csv` | Cleaned, aggregated analytical dataset |
+The project uses multiple transactional datasets covering inventory, purchasing, pricing, and sales. 
+**Dataset Access (Large Files)**
+Due to GitHub file size limitations, the complete raw datasets used in this analysis are hosted externally. 
+https://drive.google.com/drive/folders/1nHNVskMAbPeucirnb_XW3z3LC9WXQAw6?usp=drive_link
 
 **Tools & Technologies**
 Python (Pandas, NumPy)
@@ -93,6 +86,4 @@ High unsold inventory value highlights opportunities for demand forecasting impr
 - Power BI / Tableau dashboard integration
 - Supplier performance benchmarking framework
 
-**Dataset Access (Large Files)**
-Due to GitHub file size limitations, the complete raw datasets used in this analysis are hosted externally. 
-https://drive.google.com/drive/folders/1nHNVskMAbPeucirnb_XW3z3LC9WXQAw6?usp=drive_link 
+ 
