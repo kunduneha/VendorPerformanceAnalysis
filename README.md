@@ -103,4 +103,36 @@ High unsold inventory value highlights opportunities for demand forecasting impr
 - Power BI / Tableau dashboard integration
 - Supplier performance benchmarking framework
 
- 
+**Power BI Dashboard Development**
+
+The vendor performance insights were operationalised using Power BI to build an interactive, decision-focused dashboard designed for procurement and business stakeholders.
+
+**Key Power BI Activities**
+
+- Designed an **end-to-end Power BI dashboard** to analyse vendor and brand performance across sales, purchases, margins, and inventory metrics.
+- Built a **clean data model** by importing and transforming curated datasets and defining relationships to support accurate aggregation and filtering.
+  
+- Created **DAX measures** to calculate key KPIs, including:
+- Total Sales & Total Purchase Value
+- Purchase Contribution (%)
+- Vendor & Brand-level performance indicators
+- Identification of low-performing and high-margin underperforming vendors
+
+- Developed **interactive visuals** such as:
+- KPI cards for high-level business metrics
+- Bar charts for top and low-performing vendors/brands
+- Donut charts to analyse purchase contribution concentration
+- Scatter plots to highlight margin vs sales patterns and growth opportunities
+
+- Implemented **slicers and filters** to enable dynamic exploration by vendor, brand, and performance segments.
+- Structured the dashboard to support executive-level insights, focusing on vendor concentration risk, procurement efficiency, and profitability optimisation.
+
+Due to Power BI Service tenant restrictions, public web embedding is disabled.
+The repository includes dashboard screenshots and the PBIX file for local exploration.
+
+**Business Impact**
+
+- Enabled data-driven vendor evaluation rather than intuition-based procurement decisions
+- Highlighted vendor concentration risks and over-dependence on top suppliers
+- Identified high-margin but underperforming brands for targeted growth strategies
+- Supported cost-optimisation analysis through purchase contribution and volume insights
