@@ -113,12 +113,14 @@ The vendor performance insights were operationalised using Power BI to build an 
 - Built a **clean data model** by importing and transforming curated datasets and defining relationships to support accurate aggregation and filtering.
   
 - Created **DAX measures** to calculate key KPIs, including:
-  -Total Sales & Total Purchase Value
-  -Purchase Contribution (%)
-  -Vendor & Brand-level performance indicators
-  -Identification of low-performing and high-margin underperforming vendors
+  
+  - Total Sales & Total Purchase Value
+  - Purchase Contribution (%)
+  - Vendor & Brand-level performance indicators
+  - Identification of low-performing and high-margin underperforming vendors
 
 - Developed **interactive visuals** such as:
+  
   -KPI cards for high-level business metrics
   -Bar charts for top and low-performing vendors/brands
   -Donut charts to analyse purchase contribution concentration
