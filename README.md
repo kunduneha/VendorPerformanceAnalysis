@@ -119,12 +119,11 @@ The vendor performance insights were operationalised using Power BI to build an 
   - Vendor & Brand-level performance indicators
   - Identification of low-performing and high-margin underperforming vendors
 
-- Developed **interactive visuals** such as:
-  
-  -KPI cards for high-level business metrics
-  -Bar charts for top and low-performing vendors/brands
-  -Donut charts to analyse purchase contribution concentration
-  -Scatter plots to highlight margin vs sales patterns and growth opportunities
+- Developed **interactive visuals**, such as:
+  - KPI cards for high-level business metrics
+  - Bar charts for top and low-performing vendors/brands
+  - Donut charts to analyse purchase contribution concentration
+  - Scatter plots to highlight margin vs sales patterns and growth opportunities
 
 - Implemented **slicers and filters** to enable dynamic exploration by vendor, brand, and performance segments.
 - Structured the dashboard to support executive-level insights, focusing on vendor concentration risk, procurement efficiency, and profitability optimisation.
